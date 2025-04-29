@@ -23,7 +23,7 @@ This repository provides R code and sample data for generating vapor pressure pl
 
 - `vapor_pressure_plot.R` – The main plotting script.
 - `20250329_compound_set.csv` – Sample compound data including Antoine constants.
-- `LICENSE` – License file (CC BY 4.0).
+- `Readme.txt` – License (CC BY 4.0) and some description. Equivalent of this text.
 
 ## Author
 
