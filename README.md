@@ -35,7 +35,7 @@ a.k.a. けみかたん(化学/化学工学/生物), 乃物けみか.
 Distributed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
 You are free to use, modify, and distribute this work with proper attribution.
 
-Love and attribution always appreciated.
+Attribution is appreciated when this tool is used in publications or shared datasets.
 
 ## 作者
 けみかたん([@chemica_tan](https://x.com/chemica_tan)）によって作成されました。  
